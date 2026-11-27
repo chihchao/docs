@@ -16,7 +16,7 @@ site_name = "Life Finds a Way"
 # extra_javascript = ["javascripts/extra.js"]
 
 [project.theme]
-# variant = "classic"
+variant = "classic"
 # custom_dir = "overrides"
 # favicon = "images/favicon.png"
 language = "zh-TW"
