@@ -75,6 +75,9 @@ scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "跟隨系統設定"
 
+[project.extra]
+generator = false   # 移除頁尾的「Made with Zensical」
+
 # [[project.extra.social]]
 # icon = "fontawesome/brands/github"
 # link = "https://github.com/user/repo"
